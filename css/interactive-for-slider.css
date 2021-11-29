@@ -1,0 +1,21 @@
+.slid__box {
+    position: relative;
+    padding: 0px 20px;
+}
+
+.bi-paperclip {
+    position: absolute;
+    font-size: 28px;
+    color: #9CA9BC;
+    transform: rotate(180deg);
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+}
+
+.slid__box .img__slid__ashley {
+    position: absolute;
+    top: 2%;
+    left: -1%;
+    transform: rotate(9deg);
+}
